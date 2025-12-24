@@ -1,67 +1,104 @@
-# Ahmed I. Alkhateeb 👋  
-**AI Engineer | Data Science Student**
+<!-- PROFILE HEADER -->
+<h1 align="center">Ahmed I. Alkhateeb</h1>
+<p align="center"><b>AI Engineer · Data Science Student</b></p>
+<p align="center">📍 Gaza, Palestine · 🎓 UCAS (Expected 2026)</p>
 
-📍 Gaza, Palestine  
-🎓 B.Sc. Artificial Intelligence Engineering — UCAS (Expected 2026)
-
-I am an AI engineering student specializing in **Machine Learning, NLP, and applied Data Science**.  
-I focus on building **practical, end-to-end AI systems** — from data collection and modeling to deployment and user-facing applications.
-
----
-
-## 🔬 Areas of Focus
-- Machine Learning & Predictive Modeling
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Data Analysis & Visualization
-- AI-powered Web Applications
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Mobile Review Intelligence (RAG System)
-AI assistant that answers smartphone questions using **real user reviews only**.
-
-- RAG pipeline (LangChain + ChromaDB)
-- CSV-based semantic search
-- Hallucination-resistant answers
-- Streamlit chat interface
-
-🔗 Live Demo: https://intelligent-mobile-review.netlify.app/
+<!-- SOCIAL BOXES (COLORED BADGES) -->
+<p align="center">
+  <a href="https://github.com/AhmadKhtib">
+    <img src="https://img.shields.io/badge/GitHub-AhmadKhtib-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedai">
+    <img src="https://img.shields.io/badge/LinkedIn-ahmedai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/ahmadialkhatib">
+    <img src="https://img.shields.io/badge/Kaggle-ahmadialkhatib-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:ghzanoys@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ghzanoys@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🔹 IBM Employee Attrition Prediction
-- End-to-end ML pipeline with SMOTE balancing
-- XGBoost achieved **93.5% accuracy**
-- Interactive Streamlit dashboard
-
-📓 Notebook:  
-https://www.kaggle.com/code/ahmadialkhatib/eda-and-classification-93-5-ibm-employee-attrition
+## About
+I build practical AI systems with a focus on **Machine Learning, NLP, and Retrieval-Augmented Generation (RAG)** — from data processing and modeling to deployment and user-facing apps.
 
 ---
 
-### 🔹 Shahin – Charging Point Management System
-- Business system with Python, Flet, SQLite
-- RTL Arabic UI
-- Automated daily reporting
-
-🔗 GitHub: https://github.com/AhmadKhtib/Shahin
-
----
-
-## 🛠️ Tech Stack
-**Languages:** Python, SQL  
-**ML:** Scikit-learn, XGBoost, SVM  
-**NLP:** Text preprocessing, embeddings, transformer basics  
-**Data:** pandas, NumPy, EDA, Feature Engineering  
-**Tools:** Streamlit, Flet, SQLite, Git, GitHub
+## Core Skills
+- **ML:** Scikit-learn, XGBoost, SVM, classification/regression  
+- **NLP:** preprocessing, embeddings, transformer basics  
+- **Data:** pandas, NumPy, EDA, feature engineering  
+- **Apps:** Streamlit, Flet  
+- **Dev:** Git/GitHub, SQL, SQLite
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/AhmadKhtib
-- LinkedIn: https://linkedin.com/in/ahmedai
-- Kaggle: https://kaggle.com/ahmadialkhatib
-- Email: ghzanoys@gmail.com
+## Featured Projects
+
+> ✅ Tip: put project preview images inside a repo folder like `assets/` then reference them.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Mobile Review Intelligence (RAG)</h3>
+      <p>
+        A phone reviews assistant that answers questions using <b>real user reviews only</b> (LangChain + ChromaDB + Streamlit).
+      </p>
+      <p>
+        🔗 <a href="https://intelligent-mobile-review.netlify.app/">Live Demo</a> ·
+        📁 <a href="https://github.com/AhmadKhtib/YOUR_REPO_NAME">Repository</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-Vector%20Search-4C1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-Vector%20DB-111?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <!-- Replace with your image path -->
+      <img src="assets/mobile-review-intelligence.png" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>Shahin — Charging Point Management System</h3>
+      <p>
+        Business management system with <b>Python + Flet + SQLite</b>, RTL Arabic UI, and automated reporting.
+      </p>
+      <p>
+        📁 <a href="https://github.com/AhmadKhtib/Shahin">Repository</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flet-UI-6A5ACD?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <img src="assets/shahin.png" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>IBM Employee Attrition Prediction</h3>
+      <p>
+        End-to-end ML pipeline with SMOTE balancing and model comparison (XGBoost achieved <b>93.5%</b> accuracy).
+      </p>
+      <p>
+        📓 <a href="https://www.kaggle.com/code/ahmadialkhatib/eda-and-classification-93-5-ibm-employee-attrition">Kaggle Notebook</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-93.5%25-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/EDA-Feature%20Engineering-2E86AB?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <img src="assets/ibm-attrition.png" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
