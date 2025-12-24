@@ -27,11 +27,15 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
 ---
 
 ## Core Skills
-- **ML:** Scikit-learn, XGBoost, SVM, classification/regression  
-- **NLP:** preprocessing, embeddings, transformer basics  
-- **Data:** pandas, NumPy, EDA, feature engineering  
-- **Apps:** Streamlit, Flet  
-- **Dev:** Git/GitHub, SQL, SQLite
+
+- **Machine Learning:** Scikit-learn, XGBoost, SVM, classification & regression, model evaluation  
+- **Natural Language Processing:** text cleaning & tokenization, embeddings, semantic search, basic transformers, NLP signal extraction  
+- **Retrieval-Augmented Generation (RAG):** vector databases (ChromaDB), metadata-aware retrieval, prompt grounding  
+- **Data Analysis:** pandas, NumPy, EDA, feature engineering, time-series aggregation  
+- **Backend & APIs:** FastAPI, RESTful APIs, data pipelines  
+- **Frontend & Apps:** Streamlit, React  
+- **Databases:** SQLite, CSV-based datasets, vector stores  
+- **Dev & Deployment:** Git/GitHub, Render, Netlify, environment management
 
 ---
 
