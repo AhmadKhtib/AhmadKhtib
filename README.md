@@ -45,7 +45,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
         A phone reviews assistant that answers questions using <b>real user reviews only</b> (RAG + LangChain + ChromaDB + Fastapi + React).
       </p>
       <p>
-        🔗 <a href="https://intelligent-mobile-review.netlify.app/">Live Demo</a> ·
+        🔗 <a href="https://intelligent-mobile-review.netlify.app/">Live Demo</a> 
         📁 <a href="https://github.com/AhmadKhtib/Phone-Reviews-RAG-Assistant">Repository</a>
       </p>
       <p>
@@ -61,6 +61,29 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
       <img src="assets/mobile-review-intelligence.png" width="100%" />
     </td>
   </tr>
+    <tr>
+    <td width="50%">
+      <h3>Gaza Food Market Supply & Demand Analysis</h3>
+      <p>
+        Interactive dashboard for analyzing <b>food market supply and demand trends in Gaza</b>, using data collected from Telegram channels where people post buying and selling offers.
+      </p>
+      <p>
+        🔗 <a href="https://market-supply-demand-analysis2025.streamlit.app/">Live App</a>
+        📁 <a href="https://github.com/AhmadKhtib/supply-demand-analysis2025">Repository</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Telethon-Data%20Collection-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/matplotlib-Visualization-11557C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <!-- Replace with your screenshot path once you add it -->
+      <img src="assets/gaza-market-dashboard.png" width="100%" />
+    </td>
+  </tr>
+
 
   <tr>
     <td width="50%">
