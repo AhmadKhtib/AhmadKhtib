@@ -62,34 +62,38 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
     </td>
   </tr>
     <tr>
-    <td width="50%">
-      <h3>Gaza Food Market Supply & Demand Analysis</h3>
-      <p>
-        Interactive dashboard for analyzing <b>food market supply and demand trends in Gaza</b>, using data collected from Telegram channels where people post buying and selling offers.
-      </p>
-      <p>
-        🔗 <a href="https://market-supply-demand-analysis2025.streamlit.app/">Live App</a>
-        📁 <a href="https://github.com/AhmadKhtib/supply-demand-analysis2025">Repository</a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Telethon-Data%20Collection-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/matplotlib-Visualization-11557C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <!-- Replace with your screenshot path once you add it -->
-      <img src="assets/gaza-market-dashboard.jpg" width="100%" />
-    </td>
-  </tr>
+  <td width="50%">
+    <h3>Gaza Food Market Supply & Demand Analysis</h3>
+    <p>
+      Interactive dashboard for analyzing <b>food market supply and demand trends in Gaza</b>, using data collected from Telegram channels where users post buying and selling offers.
+    </p>
+    <p>
+      Raw text posts are <b>cleaned, tokenized, and transformed into structured numerical signals</b> to quantify demand, supply, and price trends over time.
+    </p>
+    <p>
+      🔗 <a href="https://market-supply-demand-analysis2025.streamlit.app/">Live App</a> ·
+      📁 <a href="https://github.com/AhmadKhtib/supply-demand-analysis2025">Repository</a>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Telethon-Data%20Collection-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Text%20Analysis-NLP%20Signals-6A5ACD?style=flat-square" />
+      <img src="https://img.shields.io/badge/pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/matplotlib-Visualization-11557C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </p>
+  </td>
+  <td width="50%">
+    <img src="assets/gaza-market-dashboard.jpg" width="100%" alt="Gaza Food Market Dashboard" />
+  </td>
+</tr>
+
 
 
   <tr>
     <td width="50%">
       <h3>Shahin — Charging Point Management System</h3>
       <p>
-        Business management system with <b>Python + Flet + SQLite</b>, RTL Arabic UI, and automated reporting.
+        Business management system with <b>Python + sqlalchemy + Flet + SQLite</b>, RTL Arabic UI, and automated reporting.
       </p>
       <p>
         📁 <a href="https://github.com/AhmadKhtib/Shahin">Repository</a>
