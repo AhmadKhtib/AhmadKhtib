@@ -80,7 +80,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
     </td>
     <td width="50%">
       <!-- Replace with your screenshot path once you add it -->
-      <img src="assets/gaza-market-dashboard.png" width="100%" />
+      <img src="assets/gaza-market-dashboard.jpg" width="100%" />
     </td>
   </tr>
 
@@ -119,7 +119,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
       </p>
     </td>
     <td width="50%">
-      <img src="assets/ibm-attrition.png" width="100%" />
+      <img src="assets/ibm-attrition.jpg" width="100%" />
     </td>
   </tr>
 </table>
