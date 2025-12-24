@@ -39,7 +39,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
 
 <table>
   <tr>
-    <td width="80%">
+    <td width="50%">
       <h3>Mobile Review Intelligence </h3>
       <p>
         A phone reviews assistant that answers questions using <b>real user reviews only</b> (RAG + LangChain + ChromaDB + Fastapi + React).
@@ -57,12 +57,12 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
         <img src="https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
       </p>
     </td>
-    <td width="80%">
+    <td width="50%">
       <img src="assets/mobile-review-intelligence.png" width="100%" />
     </td>
   </tr>
     <tr>
-    <td width="80%">
+    <td width="50%">
       <h3>Gaza Food Market Supply & Demand Analysis</h3>
       <p>
         Interactive dashboard for analyzing <b>food market supply and demand trends in Gaza</b>, using data collected from Telegram channels where people post buying and selling offers.
@@ -78,7 +78,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
         <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
     </td>
-    <td width="80%">
+    <td width="50%">
       <!-- Replace with your screenshot path once you add it -->
       <img src="assets/gaza-market-dashboard.jpg" width="100%" />
     </td>
@@ -86,7 +86,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
 
 
   <tr>
-    <td width="80%">
+    <td width="50%">
       <h3>Shahin — Charging Point Management System</h3>
       <p>
         Business management system with <b>Python + Flet + SQLite</b>, RTL Arabic UI, and automated reporting.
@@ -99,13 +99,13 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
         <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
-    <td width="80%">
+    <td width="50%">
       <img src="assets/shahin.png" width="100%" />
     </td>
   </tr>
 
   <tr>
-    <td width="80%">
+    <td width="50%">
       <h3>IBM Employee Attrition Prediction</h3>
       <p>
         End-to-end ML pipeline with SMOTE balancing and model comparison (XGBoost achieved <b>93.5%</b> accuracy).
@@ -118,7 +118,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
         <img src="https://img.shields.io/badge/EDA-Feature%20Engineering-2E86AB?style=flat-square" />
       </p>
     </td>
-    <td width="80%">
+    <td width="50%">
       <img src="assets/ibm-attrition.jpg" width="100%" />
     </td>
   </tr>
