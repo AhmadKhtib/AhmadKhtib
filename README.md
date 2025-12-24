@@ -93,24 +93,25 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
 
 
 
-  <tr>
-    <td width="50%">
-      <h3>Shahin — Charging Point Management System</h3>
-      <p>
-        Business management system with <b>Python + sqlalchemy + Flet + SQLite</b>, RTL Arabic UI, and automated reporting.
-      </p>
-      <p>
-        📁 <a href="https://github.com/AhmadKhtib/Shahin">Repository</a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Flet-UI-6A5ACD?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <img src="assets/shahin.png" width="100%" />
-    </td>
-  </tr>
+<tr>
+  <td width="50%">
+    <h3>Shahin — Charging Point Management System</h3>
+    <p>
+      Business management system built with <b>Python, SQLAlchemy, Flet, and SQLite</b>, featuring an RTL Arabic UI and automated daily reporting.
+    </p>
+    <p>
+      📁 <a href="https://github.com/AhmadKhtib/Shahin">Repository</a>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flet-UI-6A5ACD?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </p>
+  </td>
+  <td width="50%">
+    <img src="assets/shahin.png" width="100%" alt="Shahin Charging Point Management System UI" />
+  </td>
+</tr>
 
   <tr>
     <td width="50%">
