@@ -35,9 +35,7 @@ I build practical AI systems with a focus on **Machine Learning, NLP, and Retrie
 
 ---
 
-## Featured Projects
-
-> ✅ Tip: put project preview images inside a repo folder like `assets/` then reference them.
+## Projects
 
 <table>
   <tr>
